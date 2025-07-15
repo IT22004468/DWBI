@@ -1,0 +1,11 @@
+SalesChannelID	ChannelName	Description
+1	Online	Purchased through website
+2	In-Store	Walk-in customer purchase
+3	Phone Order	Ordered via phone
+4	Mobile App	Purchased via mobile app
+5	Email Campaign	Purchased via email promotion
+6	Affiliate	Purchase made via affiliate website
+7	Social Media	Purchase through social platform ads
+8	Event Sale	Purchase at promotional events or booths
+9	Reseller	Sale through third-party reseller
+10	Marketplace	Sale made via external marketplace
